@@ -1,0 +1,38 @@
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.a{
+    border-radius:5px;
+    border:1px grey solid;
+    text-align: center;
+    padding:5px;
+    margin-left:50px;
+    
+}
+#result{
+    margin-left: 50px;
+}
+
+footer{
+    
+    line-height: normal;
+}
+.maindiv {
+background-color: white;
+color:black;
+width:500px;
+height:500px;
+padding:20px;
+border-radius:25px;
+line-height: 40px;
+margin:auto;
+margin-top:50px;
+}
+label{
+    width:100px;
+    display:inline-block;
+}
+label{
+    box-sizing: border-box;
+    margin-left: 50px;
+}
+
